@@ -5,3 +5,5 @@ Simply run `npm install` to install all the necessary packages and dependencies.
 ```
 npm install inquirer
 ```
+### Acknowledgments
+Used [RandomLists](https://www.randomlists.com/random-words) to randomly generate an array of possible words.
